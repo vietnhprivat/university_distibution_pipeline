@@ -1,1 +1,1 @@
-<iframe title="Studier" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMzkyNzZhYjUtYWZhYy00NjE4LTk4YTktNzljMmFkOTE2MzA1IiwidCI6IjIxMTNjODE3LTg2NTUtNDA4OS05MzJhLThjNTZkMGJjNzViYSIsImMiOjl9" frameborder="0" allowFullScreen="true"></iframe>
+[Link to Power BI report](https://app.powerbi.com/view?r=eyJrIjoiMzkyNzZhYjUtYWZhYy00NjE4LTk4YTktNzljMmFkOTE2MzA1IiwidCI6IjIxMTNjODE3LTg2NTUtNDA4OS05MzJhLThjNTZkMGJjNzViYSIsImMiOjl9)
