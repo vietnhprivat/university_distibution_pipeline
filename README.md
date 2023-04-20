@@ -3,6 +3,9 @@ This project takes the previous project university distibution and make a pipeli
 
 # Summary
 ●	Utilized Python to analyze more than 800 academic majors from 32 different educations centers to calculate the gender distribution and development across different educations. 
+
 ●	Used BeautifulSoup to webscrape “Uddannelses- og Forskningsministeriets” website and Request to download, rename and sort files in the desired format.
+
 ●	Utilizing Pandas for data cleaning and data wrangling and then implemented a whole pipeline to clean all files and using MySQL Python Connector to store it in a database. 
+
 ●	Aggregated and visualized the data in an interactive Dashboard using Power BI. 
